@@ -31,8 +31,18 @@ class Car{
         return model;
     }
 
-
-
+    public double calculatePrice(int rentalDays){
+        return baseProcePerDay * rentalDays;
+    }
+    public boolean is Available(){
+        return isAvailable;
+    }
+    public void rent(){
+        isAvailable = false;
+    }
+    public void returnCar(){
+        isAvailable = true;
+    }
 }
 
 
