@@ -22,8 +22,8 @@ Car Rental System Using OOP
 I have developed using Object-Oriented Programming (OOP) principles to provide a user-friendly and efficient platform for renting cars.
 
 ## Table of Contents
-### Introduction
-### Technologies Used
+##### Introduction
+##### Technologies Used
 
 ### Introduction
 Simple car rental system project built using java and OOPs concepts to get a strong grip on object oriented programming.
